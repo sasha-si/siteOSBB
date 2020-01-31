@@ -10,7 +10,7 @@ $(document).ready(function() {
             settings: {
                slidesToShow: 3,
                vertical: true,
-               verticalSwiping: true,
+               swipe: false,
                speed: 100,
                arrows: false,
                dots: false
